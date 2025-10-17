@@ -6,8 +6,8 @@ Thank you to all contributors who have helped make this project possible!
 
 | Name | Commits | Lines Changed | Last Commit |
 | ---- | ------- | ------------- | ----------- |
-| [Sean Freeman](https://github.com/sean-freeman) | 144 | 241528 | 2025-06-20 |
-| [Marcel Mamula](https://github.com/marcelmamula) | 74 | 142108 | 2025-09-19 |
+| [Sean Freeman](https://github.com/sean-freeman) | 134 | 239236 | 2025-03-28 |
+| [Marcel Mamula](https://github.com/marcelmamula) | 11 | 346718 | 2025-07-14 |
 | [Gabriele Puliti](https://github.com/Wabri) | 1 | 68 | 2024-06-12 |
 | [Janine Fuchs](https://github.com/ja9fuchs) | 1 | 4 | 2024-04-15 |
 
