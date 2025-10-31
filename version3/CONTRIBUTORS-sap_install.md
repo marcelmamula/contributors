@@ -34,7 +34,6 @@ For specific role maintainers, see the `README.md` file in the corresponding rol
 | [Markus Moster](https://github.com/mmoster) | 65 | 7983 | 2022-06-28 |
 | [Gabriele Puliti](https://github.com/Wabri) | 46 | 2544 | 2024-08-02 |
 | [Rob Dobozy](https://github.com/rob0d) | 31 | 820 | 2025-03-24 |
-| [Kirill Satarin](https://github.com/kksat) | 21 | 834 | 2024-01-30 |
 | [Rainer Leber](https://github.com/rainerleber) | 17 | 1209 | 2023-02-01 |
 | [Steven Stringer](https://github.com/mr-stringer) | 8 | 586 | 2022-12-14 |
 | Roberto Nozaki | 6 | 116 | 2024-03-09 |
